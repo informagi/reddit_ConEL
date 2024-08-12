@@ -6,11 +6,13 @@ This repository contains the implementation and resources used in our work title
 
 # Citation
 ```bash
-@inproceedings{your-acl-paper-2024,
-  title={Real World Conversational Entity Linking Requires More Than Zero-Shots},
-  author={Your Name and Co-authors},
-  booktitle={ACL 2024},
-  year={2024}
+@inproceedings{
+anonymous2024real,
+title={Real World Conversational Entity Linking Requires More Than Zero-Shots},
+author={Anonymous},
+booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
+year={2024},
+url={https://openreview.net/forum?id=aW5RrpFNb3}
 }
 
 ```
