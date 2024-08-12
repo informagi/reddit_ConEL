@@ -5,7 +5,7 @@ This repository contains the implementation and resources used in our work title
 # Setup & Usage
 
 # Citation
-```bash
+```text
 @inproceedings{
 anonymous2024real,
 title={Real World Conversational Entity Linking Requires More Than Zero-Shots},
